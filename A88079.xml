@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The state of the case in brief between the Countess of Sterlin, and others by petition in Parliament, plaintiffs; and Mris Levingston, defendant.</title>
+            <author>Levingston, Anne.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88079</idno>
+            <idno type="STC">Wing L1824</idno>
+            <idno type="STC">Thomason 669.f.19[43]</idno>
+            <idno type="STC">ESTC R212119</idno>
+            <idno type="EEBO-CITATION">99870769</idno>
+            <idno type="PROQUEST">99870769</idno>
+            <idno type="VID">163381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163381)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The state of the case in brief between the Countess of Sterlin, and others by petition in Parliament, plaintiffs; and Mris Levingston, defendant.</title>
+                  <author>Levingston, Anne.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stirling, Mary Vanlore Alexander, --  Countess of, d. ca. 1660 --  Early works to 1800.</term>
+               <term>Levingston, Anne --  Early works to 1800.</term>
+               <term>Estates (Law) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163381:1" rendition="simple:additions"/>
+            <head>The State of the Caſe in brief, between the Counteſs of <hi>STERLIN,</hi> and others by Petition in Parla<g ref="char:EOLhyphen"/>ment, Plaintiffs; and M<hi rend="sup">ris</hi> 
+               <hi>LEVINGSTON,</hi> Defendant.</head>
+            <p>THE Plaintiffs ſuggeſt that they are moſt wrongfully diſ-inherited of an Eſtate of 1100 <hi>l. per annum,</hi>
+               <note place="margin">The ſubſtance of the Pe<g ref="char:EOLhyphen"/>tition</note> which ought to have come to them at the death of the Lady <hi>Powel.</hi> And that Mris. <hi>Levingston</hi> hath gained the whole eſtate of old Sir <hi>Peter Vanlore</hi> (who was her Grandfather) and the Lady <hi>Powel</hi> (who was her Aunt) to her ſelf, by forcing the Lady <hi>Powel</hi> to levie a Fine; and by Deeds, leading the uſe thereof to ſettle it upon her. And by uſing evil practiſes to gain the affection of the ſaid Lady; and that Mr <hi>Levingston</hi> cauſed the Writs to be anti-dated for the levying of the ſaid Fine.</p>
+            <p>Now it doth appear upon the examination and proofs:</p>
+            <p n="1">I. That old Sir <hi>Peter Vanlore</hi> had four Daughters,<note place="margin">
+                  <hi>Sir</hi> Peter Vanlores <hi>iſſue.</hi>
+               </note> and one Son.</p>
+            <list>
+               <item>1. The Lady <hi>Caeſar,</hi> Mris <hi>Levingston's</hi> mother.</item>
+               <item>2. The Lady <hi>Powel.</hi>
+               </item>
+               <item>3. The Lady <hi>Glemham.</hi>
+               </item>
+               <item>4. Mris <hi>Vandenbemde.</hi>
+               </item>
+               <item>Sir <hi>Peter Vanlore</hi> the younger.</item>
+            </list>
+            <p n="2">II. That by a ſufficient ſettlement he divided his Eſtate into five parts after the deceaſe of his Son and the Lady <hi>Powel.</hi>
+               <note place="margin">The diſtribution of his reall Eſtate.</note>A fift part thereof the Lady <hi>Powel</hi> bad ſetled upon her, and the heirs of her body; beſides ſome other Lands lying in the <hi>Devizes,</hi> and given her in lieu and augmentation of her portion, and out of particular affection, being his ſurviving child.</p>
+            <p n="3">III. That the Plaintiffs (together with <hi>Vandenbemde</hi> their fellow practiſer) (as his Grandchildren) do enjoy their ſeveral fifth parts, according to the ſaid ſettlement, a mounting by their own computation to 1500 <hi>l. per annum.</hi>
+            </p>
+            <p n="4">IV. That the ſaid Lady <hi>Powel</hi> had full power, with the conſent of her husband Sir <hi>Edward Powel,</hi> to diſpoſe of her fifth part, and of her other Lands, to whom ſhe pleaſed, without wrong to any body.</p>
+            <p n="5">V. That the ſaid Lady <hi>Powel</hi> did particularly love Mris <hi>Levingston</hi> her Neice,<note place="margin">The Lady <hi>Powels</hi> affe<g ref="char:EOLhyphen"/>ction to Mris <hi>Levingſton.</hi>
+               </note> from her very childhood, and ſo continued to the day of her death; and declared her intention from time to time conſtantly, to make her her Heir, in caſe ſhe dyed without iſſue of her body, and the very Plaintiffs have confeſſed the ſame. And therein it is to be obſerved, That the Allegations and falſe ſuggeſtions of the Plaintiffs may well be preſumed to proceed from malice, becauſe they charge Miſtris <hi>Levingſton</hi> to have uſed Sorcery, Love-powder, and other wicked practices to gain the Lady <hi>Powels</hi> love, whereas ſhe had it largely from her Infancy. And it is obſervable, that the Plaintiffs ſuggeſtions are contradictory; for they pretend that Mris <hi>Levingston</hi> ſhould uſe force to gain a Fine from her ſaid Aunt, and yet pretend that ſhe gained her ſaid Aunts affection by unlawful means; by which it appears the ſaid Petition is <hi>Felo de ſe.</hi>
+            </p>
+            <p n="6">VI. That there was no colour or pretence of Force upon the perſon of the ſaid Lady <hi>Powel,</hi> nor the leaſt pretence of threats, or awe or terror upon the ſaid Lady, to induce her to the Fine and ſettlement of her Eſtate.</p>
+            <p>The force pretended was a difference between Sir <hi>Edward Powel</hi> and one <hi>Crompton</hi> (a ſervant of his) which pretended force was tryed at Law by an able Iury of the neighbor-hood,<note place="margin">A Verdict againſt the Force.</note> and no force found, but a verdict went for Sir <hi>Edward Powel.</hi>
+            </p>
+            <p>The ſame pretended force with what is alledged in the Petition,<note place="margin">A Judgment for Miſtris <hi>Levingſton.</hi>
+               </note> was alledged three years ago at the Court of Com<g ref="char:EOLhyphen"/>mon Pleas, and upon full and deliberate hearing of all that could be alledged both for matter of fact, and matter in Law; the Iudges of that Court having adviſed with all the Iudges of <hi>England,</hi> gave judgement for Mris. <hi>Levingſton,</hi> and did con<g ref="char:EOLhyphen"/>firm the Fine, as by their judgement appears, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>Hillary Terme, <date>February 11. 1651.</date>
+                           </dateline>
+                        </opener>
+                        <p>THe Iuſtices here, upon <hi>CONSIDERATION</hi> and <hi>ADVISEMENT</hi> had, touching the ſaid <hi>FINES,</hi> and the matters complained of againſt the ſame doe this day declare their Opinions, and do order that all former Rules for any manner of ſtay in perfecting the ſaid Fines, or the Proclamations therupon be diſcharged; and that the ſaid Fines be proceeded in and perfected, together with the ſaid Proclamations; any former Rule to the contrary thereof, notwithſtanding.</p>
+                        <closer>
+                           <signed>BY THE COURT.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And the next day the Judges allowed Mris <hi>Levingſton</hi> and her Husband to Levie new Fines of the ſaid Lands in open Court at <hi>Weſtminſter-hall,</hi> which they were not permitted to doe untill the whole matter of Fact and Law was determined.</p>
+            <p>That force ſhould be objected againſt a Fine,<note place="margin">No Averments againſt a Fine, nor any Record.</note> is contrary to the fundamental Laws of the Land, the woman having ac<g ref="char:EOLhyphen"/>knowledged in private before the Judge, that ſhe did the ſame willingly, and not by conſtraint, and the fine recorded.</p>
+            <p>That a fine is the common aſſurance and ſecurity of all mens eſtates in the Nation, and ought not to be impeached upon any pretence whatſoever. For which cauſe Averments (which are teſtimony by witneſſes) to avoid introducing of perjury to the deſtruction o mens eſtates and lives) are prohibited by ſeveral Acts of Parliament (all bending themſelves againſt them) as well as at Common Law.</p>
+            <p n="7">VII. That the ſaid Lady <hi>Powel</hi> did acknowledge the ſaid Fine, and ſealed the deed to lead the uſe thereof freely, willing<g ref="char:EOLhyphen"/>ly, and cheerfully, and that the ſame were prepared for her, upon her deſire onely, and that after ſhe executed and finiſhed it, ſhe heartily bleſſed God that ſhe had done the ſame before ſhe dyed.</p>
+            <p n="8">VIII. That all the Allegations, malicious and idle inventions, forced and ſeeming proofs of wicked practices to be uſed by Mris <hi>Levingſton</hi> to gain the ſaid Lady <hi>Powels</hi> eſtate, have proceeded from a declared deſigne and combination againſt her Eſtate and Life, becauſe the Lady <hi>Powel</hi> had given her eſtateto her. And that ſhe hath legally convicted ſome of the pretenders to the ſaid eſtate of a conſpiracy againſt her life and reputation.</p>
+            <p n="9">IX. That the Fine and Writs for the ſame are legal, according to the courſe and practice of levying Fines, uſed many hundred of years; upon the aſſurance whereof, moſt mens eſtates in <hi>England</hi> do depend; and to Reverſe a fine thus Le<g ref="char:EOLhyphen"/>vied, were to open a dore to queſtion all mens Eſtates.</p>
+            <p>
+               <label>The Queſtion.</label> 
+               <g ref="char:V">Ʋ</g>pon all which, it is humbly conceived that the question is only,Whether any wrong is done when one party of any kindred do freely diſpoſe of his or her eſtate (being in their power to give to whom they pleaſe) to ſuch of their kindred as they love beſt.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <add>November 1654</add>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
